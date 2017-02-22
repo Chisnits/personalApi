@@ -1,7 +1,7 @@
 module.exports = {
   name: 'Chase',
   location: 'Draper',
-  occupations: ['Student', "Repair Tech"],
+  occupations: ["Repair Tech",'Student'],
   hobbies: [
     {
       name: 'Hiking',
